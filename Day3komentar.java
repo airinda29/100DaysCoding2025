@@ -23,7 +23,9 @@ public class Day3Ngoding {
         final float b = 82.25f ;
         System.out.println("jawaban akhir yang fiks"+b);
         /*
-        final jawaban dan sudah tidak bisa diperbarui lagi karena hasil setelahnya akan error
+        final jawaban dan 
+        sudah tidak bisa diperbarui lagi 
+        karena hasil setelahnya akan error
        */
 
     }
