@@ -12,7 +12,7 @@ public class Day3Ngoding {
 
         int ratarata = sem1 + sem2 + sem3 + sem4 / 4;
         System.out.printf("\nrata rata nilai matematika saya:%d%n", ratarata);
-        //berikan rata rata nilai matematika saya selama 4 semester
+        /*berikan rata rata nilai matematika saya selama 4 semester
 
         float a = 265.25f;
         System.out.println("sebelumupdate nilainya salah" + a);
@@ -22,7 +22,7 @@ public class Day3Ngoding {
         //nilai rata rata yang telah di perbarui sudah benar
         final float b = 82.25f ;
         System.out.println("jawaban akhir yang fiks"+b);
-        //final jawaban dan sudah tidak bisa diperbarui lagi karena hasil setelahnya akan error
+        */final jawaban dan sudah tidak bisa diperbarui lagi karena hasil setelahnya akan error
        
 
     }
