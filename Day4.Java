@@ -17,3 +17,5 @@ public class day3 {
         \n mendeklarasikan barisan baru atau enter
         \t mendeklarasikan spasi atau tab
         */
+}
+}
