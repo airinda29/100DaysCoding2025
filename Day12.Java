@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Day12Ngoding {
     public static void main(String[] args) {
-    Scanner airin = new Scanner (System.in);
+   Scanner airin = new Scanner (System.in);
         System.out.println(">>BIODATA AIRINDA<<");
         System.out.print("nama: ");
         String nama = airin.nextLine();
@@ -30,8 +30,19 @@ public class Day12Ngoding {
         String Nama_Ibu = airin.next();
         System.out.print("alamat: ");
         String alamat = airin.next();
-     
-    }
         
-    
+        System.out.println("nama: "+nama);
+        System.out.println("Tempat_Lahir: "+Tempat_Lahir);
+        System.out.println("Tanggal_Lahir: "+Tanggal_Lahir);
+        System.out.println("umur: "+umur);
+        System.out.println("Jenis_Kelamin: "+Jenis_Kelamin);
+        System.out.println("agama: "+agama);
+        System.out.println("BB: "+BB);
+        System.out.println("TB: "+TB);
+        System.out.println("GolDar: "+GolDar);
+        System.out.println("Nama_Ayah: "+Nama_Ayah);
+        System.out.println("Nama_Ibu: "+Nama_Ibu);
+        System.out.println("alamat: "+alamat);
+       
+    }   
 }
