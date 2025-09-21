@@ -1,5 +1,3 @@
-package Airinda;
-
 import java.util.Scanner;
 
 public class Day13Ngoding {
@@ -8,25 +6,25 @@ public class Day13Ngoding {
         
         String m = airin.nextLine();
         
-        Byte a = Byte.parseByte(m);
+        byte a = Byte.parseByte(m);
         System.out.println(a);
         
-        Short b = Short.parseShort(m);
+        short b = Short.parseShort(m);
         System.out.println(b);
         
-        Integer c = Integer.parseInt(m);
+        int c = Integer.parseInt(m);
         System.out.println(c);
         
-        Long d = Long.parseLong(m);
+        long d = Long.parseLong(m);
         System.out.println(d);
         
         char e = m.charAt(1);
         System.out.println(e);
         
-        Float f = Float.parseFloat(m);
+        float f = Float.parseFloat(m);
         System.out.println(f);
         
-        Double g = Double.parseDouble(m);
+        double g = Double.parseDouble(m);
         System.out.println(g);
         
         /*
