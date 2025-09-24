@@ -17,10 +17,5 @@ public class Day17Ngoding {
         System.out.println("\nHasil Pembagian: " + angka1 + "/" + angka2 + "=" + HasilBagi);
         System.out.println("Sisa bagi: " + SisaBagi);
         
-        if (SisaBagi % 2 == 0){
-            System.out.println("sisa bagi adalah bilangan genap");
-        } else{
-            System.out.println("sisa bagi adalah bilangan ganjil");
-        }
     }
 }
