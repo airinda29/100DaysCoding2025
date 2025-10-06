@@ -8,9 +8,9 @@ public class Day29Ngoding {
         Scanner airin = new Scanner(System.in);
         System.out.print("nilai matematika: ");
         int matematika = airin.nextInt();
-        System.out.print("nilai bahasa_inggris");
+        System.out.print("nilai bahasa_inggris: ");
         int bahasa_inggris = airin.nextInt();
-        System.out.println("apakakah nilai matematika lebih besar dari bahasa_inggris? "+(matematika>bahasa_inggris));
+        System.out.println("apakah nilai matematika lebih besar dari bahasa_inggris? "+(matematika>bahasa_inggris));
         System.out.println("apakah nilai matematika lebih kecil dari bahasa inggris? "+(matematika<bahasa_inggris));
         
     }
