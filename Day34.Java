@@ -10,10 +10,7 @@ public class Day34Ngoding {
         int nilai= airin.nextInt();
         System.out.print("masukkan kehadiran: ");
         int kehadiran = airin.nextInt();
-        if(nilai >= 60 && kehadiran >= 80){
-            System.out.println("siswa dapat mengikuti ujian akhir semester");
-        }else{
-            System.out.println("siswa tidak dapat mengikuti ujian akhir semester");
-        }
+        boolean boleh_ujian= (nilai > 60 && kehadiran > 80) ;
+        System.out.println("siswa dapat mengikuti ujian akhir semester: "+boleh_ujian);
     }
 }
