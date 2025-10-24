@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Day47Ngoding {
     public static void main(String[] args) {
         Scanner airin = new Scanner(System.in);
-        System.out.println("LATIHAN PROGRAM UNTUK MENENTUKAN HARI");
+        System.out.println("LATIHAN PROGRAM UNTUK MENENTUKAN HARI MENGGUNAKAN SWITCH CASE");
         System.out.print("masukkan angka 1-7: ");
         int angka = airin.nextInt();
         switch (angka){
