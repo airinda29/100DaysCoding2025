@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Day66NgodingAIRINDA {
     public static void main(String[] args) {
         Scanner airin = new Scanner(System.in);
+        System.out.println("LATIHAN MEMBUAT POLA VERTIKAL");
         System.out.print("masukkan angka: ");
         int angka = airin.nextInt();
         for (int i = 1; i <= angka; i++) {
